@@ -1,0 +1,11 @@
+# Project Proposal
+
+With annual sales of over US$350 billion, the used vehicle industry represents almost half of the U.S. auto retail market and is still growing rapidly. In the United States, the number of used-car transactions is approximately three times as large as the number of new-car transactions. It is no surprise then that this active secondary market no doubt has a great impact on the primary auto market. But despite its large size, the used car market has traditionally less organized than the primary market. This creates inefficiencies and hinders price discovery, making it difficult to quote prices for both consumers and retailers alike.
+
+However, the growth of the internet has created a revolution in the availability of information about the secondary car market. Digital platforms like Craiglist have made public information that was once only available inhouse to big car dealers. This unprecedented democratization of information has made it possible to develop new techniques of modelling and predicting used car prices. Our team wishes to use big data methods to leverage this information to accurately predict the price of used cars and the likelihood of a given car to be sold.
+
+This information will prove to be invaluable to secondhand car dealers as the ability to accurately price used vehicles lies at the cornerstone of their business. Having a more advanced pricing model will yield innumerable benefits to the dealership. More accurate pricing will mean better quotes, higher margins and greater profits. Knowing which cars will sell and which will stall would also help greatly with inventory management. It will also lend support to the financing department, aiding them to find the best financing options for potential clients.
+
+The dataset we will use is from Craigslist. Craigslist is the world's largest collection of used vehicles for sale. The dataset we use contains the most relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 16 other categories. The dimensionality of the data is 546k by 22. We hope that such a large dataset will lend itself to the creation of a state-of-the-art pricing model.
+
+ 
